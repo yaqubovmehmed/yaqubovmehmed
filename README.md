@@ -16,8 +16,6 @@ I build practical digital tools, with a focus on useful applications for Uzbek-s
 | --- | --- |
 | 🎓 [Learning Center Management Bot](https://github.com/yaqubovmehmed/learning-center-management-bot) | A Telegram bot for managing students, groups, attendance, test results, and parent communication. |
 | 🛍 [Telegram Shopping Bot](https://github.com/yaqubovmehmed/Telegram-Shopping-Bot) | An Uzbek-language shop bot with a catalog, cart, checkout, payments, admin tools, and a Telegram Mini App. |
-| 🌦 [HavoUz](https://github.com/yaqubovmehmed/HavoUz) | Weather for Uzbekistan and cities worldwide. [Live demo](https://havouz.netlify.app/). |
-| 💻 [Portfolio](https://github.com/yaqubovmehmed/my-portfolio) | My web projects and portfolio. |
 
 ## Technologies
 
